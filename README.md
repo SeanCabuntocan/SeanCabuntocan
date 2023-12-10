@@ -25,5 +25,5 @@ I am Sean Jesse L. Cabuntocan, a passionate coder with a strong background in da
 
 ## Reach Me
 
-- **LinkedIn:** [Sean Cabuntocan]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sean-jesse-cabuntocan-b884372a4/)https://www.linkedin.com/in/sean-jesse-cabuntocan-b884372a4/)
+- **LinkedIn:** https://www.linkedin.com/in/sean-jesse-cabuntocan-b884372a4/
 - **Email:** sean.cabuntocan@neu.edu.ph
