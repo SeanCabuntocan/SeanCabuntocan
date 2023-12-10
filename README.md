@@ -1,14 +1,14 @@
-# Hello, I'm Juan Dela Cruz 👋
+# Hello, I'm Sean Jesse L. Cabuntocan 👋
 
 ## About Me
 
-I am Juan Dela Cruz, a passionate coder with a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
+I am Sean Jesse L. Cabuntocan, a passionate coder with a strong background in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
 
 ## Education
 
 - **BS Information Technology**
   - New Era University
-  - 2021-Present
+  - 2022-Present
 
 ## Certifications
 
@@ -25,5 +25,5 @@ I am Juan Dela Cruz, a passionate coder with a strong background in database man
 
 ## Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](Your LinkedIn Profile Link)
-- **Email:** juandelacruz@gmail.com
+- **LinkedIn:** [Sean Cabuntocan]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sean-jesse-cabuntocan-b884372a4/)https://www.linkedin.com/in/sean-jesse-cabuntocan-b884372a4/)
+- **Email:** sean.cabuntocan@neu.edu.ph
